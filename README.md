@@ -1,4 +1,4 @@
- 
+![logo](https://github.com/SimpleSingh20/SimpleSingh2/blob/main/WhatsApp%20Image%202024-07-13%20at%2012.51.17%20AM.jpeg) 
 <h1 align="center">Hi 👋, I'm Simple Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
